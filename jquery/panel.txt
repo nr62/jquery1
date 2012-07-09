@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>Result</title>
+        <link type="text/css" rel="stylesheet" href="panel.css" />
+        <script type="text/javascript" src="panel.js"></script>
+    </head>
+
+    <body>
+        <div id="panel">
+            Awesome hidden sliding pane
+            <a href="#panel" id="tab">Click to show</a>
+        </div>
+    </body>
+
+</html>
